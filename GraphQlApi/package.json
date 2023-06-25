@@ -1,0 +1,17 @@
+{
+  "name": "GraphQLApi",
+  "version": "1.0.0",
+  "description": "A GraphQL Api learning",
+  "main": "index.mjs",
+  "author": "Shivam Modi",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.mjs"
+  },
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "colors": "^1.4.0",
+    "graphql": "^16.7.1",
+    "nodemon": "^2.0.22"
+  }
+}

@@ -39,6 +39,7 @@ bower_components
 build/Release
 
 # Dependency directories
+# disallow all node modules within every folder
 node_modules/
 jspm_packages/
 
