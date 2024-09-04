@@ -117,7 +117,6 @@ This document provides a comparative overview of different API architectures: SO
 | **Flexibility**       | Low                  | Medium                 | High                   | High                   | High                   |
 | **Performance**       | Medium               | High                   | High                   | Very High              | Very High              |
 | **Standardization**   | High                 | Medium                 | Medium                 | Low                    | Medium                 |
-|-----------------------|----------------------|------------------------|------------------------|------------------------|------------------------|
 
 This overview provides a high-level comparison to help you decide which API architecture best fits your needs based on your application's requirements and constraints.
 
