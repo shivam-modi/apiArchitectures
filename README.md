@@ -123,3 +123,5 @@ This overview provides a high-level comparison to help you decide which API arch
 ---
 
 Feel free to modify or expand this document based on additional details or specific use cases relevant to your project.
+
+### Don't forget to star this repo, if you learnt something new
